@@ -1,0 +1,48 @@
+#laskin{
+  width: 550px;
+  height: 650px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+#laskin td{
+  border: 2px solid black;
+  text-align: center;
+  height: 90px;
+  width: 90px;
+  background-color: #0000FF;
+}
+button{
+  width: 60px;
+  height: 60px;
+  border: 2px solid #d1d1d1;
+  background-color: #ffffff;
+  font-size: large;
+}
+
+#nolla{
+
+  width: 120px;
+  height: 60px;
+  border: 2px solid #d1d1d1;
+  background-color: #ffffff;
+  font-size: large;
+
+}
+
+#laske{
+
+  width: 236px;
+  height: 60px;
+  border: 2px solid #d1d1d1;
+  background-color: #ffffff;
+  font-size: large;
+
+}
+
+
+
+
+
+p {
+  font-size: large;
+}
