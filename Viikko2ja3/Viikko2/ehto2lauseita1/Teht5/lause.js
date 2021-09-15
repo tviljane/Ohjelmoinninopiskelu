@@ -1,6 +1,6 @@
 function laske() {
 
-  var muuttuja = document.getElementById("vastaus").value;
+  var muuttuja = document.getElementById("numero").value;
 
   muuttuja = parseInt(muuttuja);
   vastaus1 = muuttuja + "x1=" + muuttuja * 1;
